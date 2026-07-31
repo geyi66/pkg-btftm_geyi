@@ -1,13 +1,7 @@
-btftm (1.0.2-3~) UNRELEASED; urgency=medium
-
-  * WIP — update changelog before next release
-
- -- Wei Deng <weiden@qti.qualcomm.com>  Thu, 18 Jun 2026 09:26:22 +0000
-
 btftm (1.0.2-2) resolute; urgency=medium
 
   [ geyi ]
-  * fix packaging version for 3.0 (quilt)
+  * fix packaging version for 3.0 (quilt) tag 260604
 
  -- GitHub Service Bot <githubservice@qti.qualcomm.com>  Thu, 18 Jun 2026 09:25:48 +0000
 
