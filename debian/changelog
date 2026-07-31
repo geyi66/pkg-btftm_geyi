@@ -1,4 +1,4 @@
-btftm (1.0.2-2) resolute; urgency=medium
+btftm (1.0.2-2) UNRELEASED; urgency=medium
 
   [ geyi ]
   * fix packaging version for 3.0 (quilt) tag 260604
