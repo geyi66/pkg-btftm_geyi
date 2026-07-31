@@ -1,7 +1,13 @@
+btftm (1.0.2-3) UNRELEASED; urgency=medium
+
+  * fix packaging version to 1.0.2-3, tag(260604)
+
+ -- geyi <geyi@qti.qualcomm.com>  Fri, 31 Jul 2026 22:28:40 +0800
+
 btftm (1.0.2-2) UNRELEASED; urgency=medium
 
   [ geyi ]
-  * fix packaging version for 3.0 (quilt) tag 260604
+  * fix packaging version for 3.0 (quilt)
 
  -- GitHub Service Bot <githubservice@qti.qualcomm.com>  Thu, 18 Jun 2026 09:25:48 +0000
 
